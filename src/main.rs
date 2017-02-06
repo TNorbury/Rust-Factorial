@@ -1,4 +1,5 @@
-fn main() {
+fn main() 
+{
 
     //Read the command line arguments the get a number. nth(1) returns an 
     //iterator to the 1st argument (with the 0th argument being the path of the
